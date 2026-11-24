@@ -2,3 +2,10 @@ student_key,cohort,track,plan_version,course_code,enrollment_state
 S-010,2025,general,2025-A,MED120,completed
 S-011,2025,surgery,2025-A,CLN340,in_progress
 S-014,2026,general,2026-B,HUM205,enrolled
+S-010,2025,general,2025-A,HUM206,completed
+S-011,2025,surgery,2025-A,MED120,completed
+S-011,2025,surgery,2025-A,CLN350,enrolled
+S-023,2025,general,2025-A,MED120,exempt
+S-024,2026,general,2026-B,CLN340,enrolled
+S-025,2026,surgery,2026-B,HUM205,completed
+S-025,2026,surgery,2026-B,HUM211,planned

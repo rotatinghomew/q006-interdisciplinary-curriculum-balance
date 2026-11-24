@@ -2,3 +2,9 @@ plan_version,cohort,track,course_code,course_kind,week_start,week_end,domain_cod
 2025-A,2025,general,MED120,required,3,5,ethics,6,reviewed
 2025-A,2025,surgery,CLN340,required,5,6,communication,4,draft
 2026-B,2026,general,HUM205,elective,4,6,psychology,8,reviewed
+2025-A,2025,general,HUM206,required,7,8,communication,4,reviewed
+2025-A,2025,surgery,MED120,required,3,5,ethics,6,reviewed
+2026-B,2026,general,CLN340,required,5,7,communication,5,draft
+2026-B,2026,surgery,HUM205,elective,4,6,psychology,8,reviewed
+2026-B,2026,general,HUM211,required,8,9,law,3,proposed
+2025-A,2025,general,CLN350,required,8,10,ethics,5,reviewed
