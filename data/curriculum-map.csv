@@ -1,0 +1,4 @@
+plan_version,cohort,track,course_code,course_kind,week_start,week_end,domain_code,hours,evidence_state
+2025-A,2025,general,MED120,required,3,5,ethics,6,reviewed
+2025-A,2025,surgery,CLN340,required,5,6,communication,4,draft
+2026-B,2026,general,HUM205,elective,4,6,psychology,8,reviewed
